@@ -3,3 +3,5 @@ SQL Fundamentals is a comprehensive course designed to equip learners with the f
 ## Courses
 1. Introduction to SQL
 2. Intermediate SQL
+## Projects
+1. 
