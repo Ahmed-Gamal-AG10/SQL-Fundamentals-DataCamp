@@ -4,4 +4,4 @@ SQL Fundamentals is a comprehensive course designed to equip learners with the f
 1. Introduction to SQL
 2. Intermediate SQL
 ## Projects
-1. 
+- [Analyzing Students' Mental Health](https://github.com/Ahmed-Gamal-AG10/SQL-Fundamentals-DataCamp/tree/main/Project%20Analyzing%20Students'%20Mental%20Health)
